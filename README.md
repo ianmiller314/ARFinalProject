@@ -4,6 +4,4 @@ When approached and interacted with, these totems will relay audio information t
 The theming of the garden and corresponding information is yet to be determined.
 
 
-MVD OUTLINE:
-The MVD is currently implemented with borrowed assets, and lacks interactability, but the final version will have original 3d models, earcons, and audio information.
-MVD Demo Link: https://youtu.be/u_Low6RI-_A
+Final Demo Link: https://youtu.be/GJHqv4Y6btk?si=kTDN38EOjiF4Y3r2
